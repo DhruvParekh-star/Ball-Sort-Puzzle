@@ -8,7 +8,7 @@ This is a text-based version of the classic **Ball Sort Puzzle** game written in
 - The goal is to sort the balls so that each tube contains **only one color**.
 - You can only move a ball to another tube if:
   - The target tube has space.
-  - The top ball of the target tube is the **same color**, or the tube is empty.
+  - The tube is empty.
 
 ## 🕹️ How to Play
 
